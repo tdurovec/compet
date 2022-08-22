@@ -1,0 +1,15 @@
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/substring.csproj.AssemblyReference.cache
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/substring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/substring.AssemblyInfoInputs.cache
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/substring.AssemblyInfo.cs
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/substring.csproj.CoreCompileInputs.cache
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/bin/Debug/net5.0/substring.deps.json
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/bin/Debug/net5.0/substring.runtimeconfig.json
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/bin/Debug/net5.0/substring.runtimeconfig.dev.json
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/bin/Debug/net5.0/substring.dll
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/bin/Debug/net5.0/ref/substring.dll
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/bin/Debug/net5.0/substring.pdb
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/substring.dll
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/ref/substring.dll
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/substring.pdb
+/Users/pc/Dev/Python/OpenCv/tutorial/substring/obj/Debug/net5.0/substring.genruntimeconfig.cache
